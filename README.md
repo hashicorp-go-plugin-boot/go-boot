@@ -1,1 +1,1 @@
-# go-plugin-boot
+# go-boot
